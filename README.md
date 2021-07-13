@@ -1,4 +1,4 @@
-## MODULE 3: PASSWORD GENERATOR
+## PASSWORD GENERATOR
 
 - Ask the user for password length
   - If the input is **less than 7**, **greater than 128** or **Alphabet** then a propmt will display that the input is invalid..
