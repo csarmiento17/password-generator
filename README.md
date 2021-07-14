@@ -7,9 +7,9 @@
 [Github URL](https://github.com/csarmiento17/password-generator)
 
 Screenshot for Invalid Input\
-![password generator demo](./Assets/InvalidInput.PNG)
-![password generator demo](./Assets/InvalidInput2.PNG)
+![password generator demo](./assets/InvalidInput.PNG)
+![password generator demo](./assets/InvalidInput2.PNG)
 
 Screenshot for Valid input with no numbers option selected\
-![password generator demo](./Assets/ValidInput.PNG)
-![password generator demo](./Assets/output.PNG)
+![password generator demo](./assets/ValidInput.PNG)
+![password generator demo](./assets/output.PNG)
